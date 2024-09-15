@@ -11,6 +11,7 @@
 - **Deployment:** Docker, Kubernetes, AWS/GCP
 C:\Users\Risha\Desktop\SIH\Basic Structure\169 diagram.png
 ---
+![169 diagram](https://github.com/user-attachments/assets/86a4fd1d-1a5d-4092-95e4-5ab5f9cea54f)
 
 ## API Endpoints
 
