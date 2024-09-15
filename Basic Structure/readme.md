@@ -9,7 +9,7 @@
 - **Notifications:** Twilio (for SMS), SendGrid (for Email)
 - **AI/ML Recommendation Engine:** TensorFlow/Python API (integrated via REST API)
 - **Deployment:** Docker, Kubernetes, AWS/GCP
-
+C:\Users\Risha\Desktop\SIH\Basic Structure\169 diagram.png
 ---
 
 ## API Endpoints
